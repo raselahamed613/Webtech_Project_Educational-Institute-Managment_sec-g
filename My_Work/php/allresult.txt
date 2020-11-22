@@ -1,0 +1,8 @@
+Semester|ID|Subject|Marks
+12|17-33188-1|webtech|90
+2|6|6|90
+Fall 2020-21		17-33188-1		Microprocessor		90
+Fall 2020-21&nbsp;17-33188-1&nbsp;Grapich&nbsp;80
+Fall 2020-21spaces17-33188-1spacesGrapichspaces80
+Fall 2020-21   17-33188-1    Grapich   80
+12   17-33188-1   AI   70

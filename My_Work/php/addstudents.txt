@@ -1,0 +1,6 @@
+123|a|b|f|2020-11-03/22222336/ra@d.d|Male
+17-33188-1|Rasel Ahmed|Nur Ahmed|Afsana Ahmed|1997-04-27|01684726517|raselahmed.aiub@gmail.com|Male|COE|ops|Bangladesh|Islam|12.jpg
+17|a|b|c|2020-11-17|016559|ra@d.d|Female|SE|oneg|bd|Islam|aa.PNG
+1|new|karim|F|2020-11-19|01684726517|raselahmed.aiub@gmail.com|Male|EEE|ops|Bangladesh|Islam|2222.PNG
+123|s|ss|s|2020-11-11|000|raselahmed.aiub@gmail.com|Male|COE|ops|Bangladesh|Islam|11.PNG
+17-33188-1|Rasel Ahmed|Nur Ahmed|Afsana Ahmed|1998-03-26|01684726517|raselahamed613@gmail.com|Male|COE|ops|Bangladeshi|Islam|1Capture.PNG
